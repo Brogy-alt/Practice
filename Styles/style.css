@@ -1,0 +1,25 @@
+
+/* First Line */
+
+ /* p::first-line {
+    color :purple;
+}  */
+
+/* Image added before H2 */
+
+/* h2::before {
+   content: url(https://i.postimg.cc/K83D9Y1L/ddd.gif); 
+} */
+
+/* Image added after H2 */
+
+/* h2::after {
+    content: url(https://i.postimg.cc/K83D9Y1L/ddd.gif); 
+ } */
+
+ /* Color applied to first letter in text */
+
+ /* h2::first-letter {
+    color: blueviolet
+ } */
+
